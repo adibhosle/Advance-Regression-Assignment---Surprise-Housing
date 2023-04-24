@@ -43,16 +43,7 @@ You are required to model the price of houses with the available independent var
   
 - Results -
 
-  Metric             Ridge Regression	    Lasso Regression
-		
-  R2 Score (Train)  	  0.935201            0.914017
-  R2 Score (Test) 	    0.920952            0.919032
-  RSS (Train) 	        8.149486            10.813744
-  RSS (Test)	          2.729937            2.796244
-  MSE (Train)	          0.006977            0.009258
-  MSE (Test)	          0.009349            0.009576
-  RMSE (Train)	        0.083530            0.096220
-  RMSE (Test)	          0.096691            0.097858
+	![](https://github.com/adibhosle/Advance-Regression-Assignment---Surprise-Housing/blob/main/Results.jpg)
 
 
 
